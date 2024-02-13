@@ -2,24 +2,35 @@ body {
   background-color: #808080;
 }
 
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #008000;
+  text-align: center;
+}
+
 #thor-and-loki {
   display: flex;
   border: 2px solid #000;
+  border-radius: 20px;
 }
 
 #mjollnir {
   display: flex;
   border: 2px solid #000;
+  border-radius: 20px;
 }
 
 #creature-Slayer {
   display: flex;
   border: 2px solid #000;
+  border-radius: 20px;
 }
 
 #ragnarok {
   display: flex;
   border: 2px solid #000;
+  border-radius: 20px;
 }
 
 img {
