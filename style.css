@@ -1,0 +1,28 @@
+body {
+  background-color: #808080;
+}
+
+#thor-and-loki {
+  display: flex;
+  border: 2px solid #000;
+}
+
+#mjollnir {
+  display: flex;
+  border: 2px solid #000;
+}
+
+#creature-Slayer {
+  display: flex;
+  border: 2px solid #000;
+}
+
+#ragnarok {
+  display: flex;
+  border: 2px solid #000;
+}
+
+img {
+  width: 200px;
+  height: 250;
+}
