@@ -11,29 +11,36 @@ h1 {
 
 #thor-and-loki {
   display: flex;
+  justify-content: space-around;
+  flex-flow: wrap;
   border: 2px solid #000;
   border-radius: 20px;
 }
 
 #mjollnir {
   display: flex;
+  justify-content: space-around;
+  flex-flow: wrap;
   border: 2px solid #000;
   border-radius: 20px;
 }
 
 #creature-Slayer {
   display: flex;
+  justify-content: space-around;
+  flex-flow: wrap;
   border: 2px solid #000;
   border-radius: 20px;
 }
 
 #ragnarok {
   display: flex;
+  justify-content: space-around;
+  flex-flow: wrap;
   border: 2px solid #000;
   border-radius: 20px;
 }
 
 img {
-  width: 200px;
-  height: 250;
+  width: 250px;
 }
